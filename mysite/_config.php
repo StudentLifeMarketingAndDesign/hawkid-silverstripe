@@ -3,7 +3,7 @@
 global $project;
 $project = 'mysite';
 global $database;
-$database = 'SS_mysite';
+$database = 'hawkid';
 
 // Use _ss_environment.php file for configuration
 require_once "conf/ConfigureFromEnv.php";
